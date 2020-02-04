@@ -1,1 +1,1 @@
-# EFR_data
+mixture of three SAM was presented siultaneously to evoke place specific cochlear response at 70 dB SPL each to extract EEG based EFR. modulation frequency was 163, 223 and 283 for 2k, 4k and 8k respectively.
